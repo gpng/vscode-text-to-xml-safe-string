@@ -27,7 +27,7 @@ sql.Exec(`
 Output:
 
 ```
-"sql.Exec(`\n    SELECT * FROM some_table\n    WHERE name = $1\n`, &#34;John Doe&#34;)"
+"sql.Exec(`\n\tSELECT * FROM some_table\n\tWHERE name = $1\n`, &#34;John Doe&#34;)"
 ```
 
 
