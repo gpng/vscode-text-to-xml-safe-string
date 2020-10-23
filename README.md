@@ -2,6 +2,10 @@
 
 Formats text to XML safe string, replace linebreaks (\\n), tabs (\\t), and special characters (&, ', ", <, >)
 
+# Installation
+
+Published and distributed on the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=gpng.text-to-xml-safe-string)
+
 ## Features
 
 1.  Select text that you want formatted
