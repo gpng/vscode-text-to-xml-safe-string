@@ -2,7 +2,7 @@
 	"name": "text-to-xml-safe-string",
 	"displayName": "Text To XML Safe String",
 	"description": "Formats text to XML safe string, replace linebreaks (\\n), tabs (\\t), and special characters",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "gpng",
 	"repository": "https://github.com/gpng/vscode-text-to-xml-safe-string",
 	"engines": {
